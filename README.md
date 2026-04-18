@@ -128,7 +128,7 @@ Inspired by [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) â€
 
 This repo fills the gap: **claude.ai and Claude Desktop** users who want the same power without touching a terminal.
 
-Built by [@ansh](https://github.com/3idhMind) / [3idhmid](https://3idhmind.in)
+Built by [@Dev Vaham](https://github.com/3idhMind) / [3idhmid](https://3idhmind.in)
 
 ---
 
