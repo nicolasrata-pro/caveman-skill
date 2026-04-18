@@ -137,4 +137,12 @@ Each switch: confirm with the appropriate activation message, then proceed in ne
 ## Why This Works
 
 Less words ≠ less smart. Brevity constraints force signal over noise.
-Caveman not dumb. Caveman efficient.
+
+---
+
+## About
+
+Built by **Dev Vaham** / [3idhMind](https://3idhmind.in) — an AI automation agency.
+Filling gaps in the AI tools ecosystem, one open source project at a time.
+
+> *"Caveman not dumb. Caveman efficient."*
